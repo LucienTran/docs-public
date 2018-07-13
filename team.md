@@ -44,6 +44,10 @@ Pawel is a senior software engineer, battle hardened by startups working on AI, 
 
 **Fred Westling B.Eng B.Sc**      
 *Computer Scientist & Engineer*    
-Fred is a roboticist and computer scientist, with significant experience in technical writing and research.  Taught by leaders in his academic fields, he provides a youthful and modern perspective based firmly in the cutting edge of computing.  
+Fred is a roboticist and computer scientist, with significant experience in technical writing and research.  Taught by leaders in his academic fields, he provides a youthful and modern perspective based firmly in the cutting edge of computing.
 
+**Lucien Antoine Tran**    
+*IoT Developer Intern*    
+Lucien is currently studying a Bachelor of Electrical Engineering and hopes to succeed in the electronic path. He came from France four years ago and completely changed his lifestyle. He enjoys soccer and basketball, maybe too much.    
+www.linkedin.com/in/lucien-tran-3279b4155
 
